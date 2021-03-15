@@ -1,0 +1,16 @@
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/learning_c_s
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/learning_c_s.deps.json
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/learning_c_s.runtimeconfig.json
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/learning_c_s.runtimeconfig.dev.json
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/learning_c_s.dll
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/ref/learning_c_s.dll
+/media/shahad/Work_and_resources/learning/learning_c_s/bin/Debug/net5.0/learning_c_s.pdb
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.csprojAssemblyReference.cache
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.GeneratedMSBuildEditorConfig.editorconfig
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.AssemblyInfoInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.AssemblyInfo.cs
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.csproj.CoreCompileInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.dll
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/ref/learning_c_s.dll
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.pdb
+/media/shahad/Work_and_resources/learning/learning_c_s/obj/Debug/net5.0/learning_c_s.genruntimeconfig.cache

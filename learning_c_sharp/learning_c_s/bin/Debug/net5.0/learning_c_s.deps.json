@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "learning_c_s/1.0.0": {
+        "runtime": {
+          "learning_c_s.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learning_c_s/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
