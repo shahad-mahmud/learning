@@ -84,7 +84,7 @@ namespace right_align
             }
 
             if(n_words_in_current_line > 0){
-                PrintAlignedLine(words, start_index, i - 1, line_width - current_line_len);
+                PrintAlignedLine(words, start_index, i, line_width - current_line_len);
             }
         }
         static void Main(string[] args)

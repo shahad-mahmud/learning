@@ -1,0 +1,16 @@
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.csprojAssemblyReference.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.GeneratedMSBuildEditorConfig.editorconfig
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.AssemblyInfoInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.AssemblyInfo.cs
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.csproj.CoreCompileInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/center_align
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/center_align.deps.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/center_align.runtimeconfig.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/center_align.runtimeconfig.dev.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/center_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/ref/center_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/bin/Debug/net5.0/center_align.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/ref/center_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/center_align/obj/Debug/net5.0/center_align.genruntimeconfig.cache
