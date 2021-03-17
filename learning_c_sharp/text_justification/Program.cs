@@ -29,6 +29,7 @@ namespace text_justification
 
         static void PrintLine(List<string> words, int start_index, int end_index, 
                     int space_needed){
+            // Console.WriteLine($"Space neede {space_needed}");
             int word_count = end_index - start_index + 1;
             string line = "";
 
@@ -88,7 +89,7 @@ namespace text_justification
         static void Main(string[] args)
         {
             string text = "This is a text. I will try to justify this text using c sharp. I think this will be fun.";
-            int line_width = 25;
+            int line_width = 15;
 
             Justify(text, line_width);
         }

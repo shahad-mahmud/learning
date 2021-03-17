@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/shahad/Work_and_resources/learning/text_justification/text_justification.csproj": {}
+    "/media/shahad/Work_and_resources/learning/learning_c_sharp/text_justification/text_justification.csproj": {}
   },
   "projects": {
-    "/media/shahad/Work_and_resources/learning/text_justification/text_justification.csproj": {
+    "/media/shahad/Work_and_resources/learning/learning_c_sharp/text_justification/text_justification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/shahad/Work_and_resources/learning/text_justification/text_justification.csproj",
+        "projectUniqueName": "/media/shahad/Work_and_resources/learning/learning_c_sharp/text_justification/text_justification.csproj",
         "projectName": "text_justification",
-        "projectPath": "/media/shahad/Work_and_resources/learning/text_justification/text_justification.csproj",
+        "projectPath": "/media/shahad/Work_and_resources/learning/learning_c_sharp/text_justification/text_justification.csproj",
         "packagesPath": "/home/shahad/.nuget/packages/",
-        "outputPath": "/media/shahad/Work_and_resources/learning/text_justification/obj/",
+        "outputPath": "/media/shahad/Work_and_resources/learning/learning_c_sharp/text_justification/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shahad/.nuget/NuGet/NuGet.Config"

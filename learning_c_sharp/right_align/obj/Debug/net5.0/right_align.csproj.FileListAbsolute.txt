@@ -1,0 +1,16 @@
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/right_align
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/right_align.deps.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/right_align.runtimeconfig.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/right_align.runtimeconfig.dev.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/right_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/ref/right_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/bin/Debug/net5.0/right_align.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.csprojAssemblyReference.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.GeneratedMSBuildEditorConfig.editorconfig
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.AssemblyInfoInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.AssemblyInfo.cs
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.csproj.CoreCompileInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/ref/right_align.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/Debug/net5.0/right_align.genruntimeconfig.cache

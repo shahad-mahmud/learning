@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/shahad/Work_and_resources/learning/text_justification/text_justification.csproj",
-      "projectName": "text_justification",
-      "projectPath": "/media/shahad/Work_and_resources/learning/text_justification/text_justification.csproj",
+      "projectUniqueName": "/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/right_align.csproj",
+      "projectName": "right_align",
+      "projectPath": "/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/right_align.csproj",
       "packagesPath": "/home/shahad/.nuget/packages/",
-      "outputPath": "/media/shahad/Work_and_resources/learning/text_justification/obj/",
+      "outputPath": "/media/shahad/Work_and_resources/learning/learning_c_sharp/right_align/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/shahad/.nuget/NuGet/NuGet.Config"
