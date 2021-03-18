@@ -1,0 +1,16 @@
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.csprojAssemblyReference.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.GeneratedMSBuildEditorConfig.editorconfig
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.AssemblyInfoInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.AssemblyInfo.cs
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.csproj.CoreCompileInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/dfs
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/dfs.deps.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/dfs.runtimeconfig.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/dfs.runtimeconfig.dev.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/dfs.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/ref/dfs.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/bin/Debug/net5.0/dfs.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/ref/dfs.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/dfs/obj/Debug/net5.0/dfs.genruntimeconfig.cache
