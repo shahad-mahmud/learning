@@ -1,0 +1,16 @@
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.csprojAssemblyReference.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.AssemblyInfoInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.AssemblyInfo.cs
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.csproj.CoreCompileInputs.cache
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/binary_tree
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/binary_tree.deps.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/binary_tree.runtimeconfig.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/binary_tree.runtimeconfig.dev.json
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/binary_tree.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/ref/binary_tree.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/bin/Debug/net5.0/binary_tree.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/ref/binary_tree.dll
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.pdb
+/media/shahad/Work_and_resources/learning/learning_c_sharp/binary_tree/obj/Debug/net5.0/binary_tree.genruntimeconfig.cache
