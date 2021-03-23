@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int fibo(int n, int * fibo_value){
@@ -8,6 +9,12 @@ int fibo(int n, int * fibo_value){
     
     fibo_value[n] = fibo(n - 1, fibo_value) + fibo(n - 2, fibo_value);
     return fibo_value[n];
+}
+
+int fibo_with_golden_ratio(int n){
+    double phi = (1 + sqrt(5)) / 2.0;
+
+    return round(pow(phi, n) / sqrt(5));
 }
 
 int main(){
@@ -22,6 +29,7 @@ int main(){
     fibo_value[1] = 1;
 
     cout << fibo(n, fibo_value) << endl;
+    cout << fibo_with_golden_ratio(n) << endl;
 
     return 0;
 }
