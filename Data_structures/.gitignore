@@ -2,6 +2,8 @@
 *
 
 # except
+!*/
+!*.py
 !*.cpp
 !*.c
 !.gitignore
